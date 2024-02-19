@@ -3,7 +3,7 @@
 I'm Alvaro Rodrigues,  I'm a Software Engineer, and I've been working in tech since 2019. 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/AlvimLopez)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alvimLopes)](https://twitter.com/AlvimLopez)
 [![Linkedin: @AlvimLopez](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/alvimlops/)
 [![Youtube: alvimlops](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](https://www.youtube.com/channel/UCkkWMrv1EjS1rFtjBFQ4zYQ)
 
